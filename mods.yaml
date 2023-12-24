@@ -1,5 +1,49 @@
+install_dir: "C:\\Users\\ishan\\Projects\\mod-manager\\installed"
 mods:
-  - url: "https://github.com/Cities2Modding/LegacyFlavour"
-    name: "LegacyFlavour"
-  - url: "https://github.com/ST-Apps/CS2-ExtendedRoadUpgrades"
-    name: "CS2-ExtendedRoadUpgrades"
+  - name: BetterPedestrianPathfind
+    url: https://github.com/thardie/Cities2-Mods
+    create_mod_dir: true
+  
+  # - name: DucksInARow
+  #   url: https://github.com/Cities2Modding/DucksInARow
+  
+  - name: "ExtendedRoadUpgrades"
+    url: "https://github.com/ST-Apps/CS2-ExtendedRoadUpgrades"
+  
+  - name: ExtendedToolTip
+    url: https://github.com/89pleasure/cities2-extended-tooltip
+    create_mod_dir: true
+  
+  - name: FirstPersonCamera
+    url: https://github.com/Cities2Modding/FirstPersonCamera
+  
+  - name: "LegacyFlavour"
+    url: "https://github.com/Cities2Modding/LegacyFlavour"
+  
+  - name: LineToolLite
+    url: https://github.com/algernon-A/LineToolLite
+  
+  - name: MOOB
+    url: https://github.com/Cities2Modding/MOOB
+  
+  - name: UnlockAllTilesMod
+    url: https://github.com/Wayzware/UnlockAllTilesMod
+  
+  - name: ExtraUIScreens
+    url: thunderstore 
+  
+  - name: RealPop
+    url: 
+  
+  - name: ExtendedTransportManager
+    url:
+  
+  - name: HookUI
+    url:
+  
+  - name: TrafficLightsEnhancement
+    url:
+  
+  - name: MapInstaller
+    url: 
+  
